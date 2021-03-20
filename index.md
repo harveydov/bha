@@ -12,9 +12,9 @@ Using your mobile phone should be sufficient and then you can upload it to the l
 
 [Video Upload](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
 
-![QR Code 2](qr.png)
+![QR Code](qr.png)
 
-If you need any help with uploading your video, please email [video@ekto.uk](mailto:video@ekto.uk)
+If you need any help with uploading your video, please email [video@ekto.uk!](mailto:video@ekto.uk)
 
 Can we please ask that we have all of your videos by **Monday 5th April 2021** to allow us time to put these together. 
 
