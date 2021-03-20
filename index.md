@@ -12,6 +12,8 @@ Using your mobile phone should be sufficient and then you can upload it to the l
 
 [Video Upload](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
 
+![QR Code](https://github.com/harveydov/bha/blob/206c21605e8818cc9a7025d73e4139c23f7412fe/qr.png)
+
 If you need any help with uploading your video, please email [photo@ekto.uk](mailto:photo@ekto.uk).
 
 Can we please ask that we have all of your videos by **Monday 5th April 2021** to allow us time to put these together. 
