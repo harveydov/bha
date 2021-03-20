@@ -6,11 +6,11 @@ To celebrate Bill and Heather’s 60th Wedding Anniversary, we would very much l
 However, at this time, it will not be something that is possible.
 
 As such, we have decided to give them a surprise and put together a video from all their Family and Friends expressing their wishes of love and friendship.
-If this is something that you would like to be involved in, we are asking for you to record a short video (maximum of 2 minutes long) and send it in to us so we can edit them together into one special video that will be presented to them on their special day so they can watch it in the comfort of their own home.
+If this is something that you would like to be involved in, we are asking for you to record a short video (maximum of 1 minute long) and send it in to us so we can edit them together into one special video that will be presented to them on their special day so they can watch it in the comfort of their own home.
 
 Using your mobile phone should be sufficient and then you can upload it to the link below. You should be able to click on the link directly on your mobile phone and then select the video clip. Alternatively, you can scan the QR code below to access the website: 
 
-[Video Upload](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
+[Click here to upload your Video](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
 
 ![QR Code](qr.png)
 
