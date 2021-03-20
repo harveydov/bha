@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Bill and Heathers 60th Anniversary Video
+### 26th April 1961 to 2021
+## Sssshhhh .... It’s a surprise!
 
-You can use the [editor on GitHub](https://github.com/harveydov/bha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+To celebrate Bill and Heather’s 60th Wedding Anniversary, we would very much like to throw the party of all parties to celebrate this wonderful day. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, at this time, it will not be something that is possible.
 
-### Markdown
+As such, we have decided to give them a surprise and put together a video from all their Family and Friends expressing their wishes of love and friendship.
+If this is something that you would like to be involved in, we are asking for you to record a short video (maximum of 2 minutes long) and send it in to us so we can edit them together into one special video that will be presented to them on their special day so they can watch it in the comfort of their own home.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using your mobile phone should be sufficient and then you can upload it to the link below. You should be able to click on the link directly on your mobile phone and then select the video clip. Alternatively, you can scan the QR code below to access the website: 
 
-```markdown
-Syntax highlighted code block
+[Video Upload](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
 
-# Header 1
-## Header 2
-### Header 3
+If you need any help with uploading your video, please email [photo@ekto.uk](mailto:photo@ekto.uk).
 
-- Bulleted
-- List
+Can we please ask that we have all of your videos by **Monday 5th April 2021** to allow us time to put these together. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harveydov/bha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We hope to upload the video online to a private link once the video has been presented to Bill and Heather. If anyone has any objections, please let me know. We will share the link to all those involved.
