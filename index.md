@@ -12,7 +12,6 @@ Using your mobile phone should be sufficient and then you can upload it to the l
 
 [Video Upload](https://www.dropbox.com/request/rpqvPTWSzD8jo5hpjsN6)
 
-![QR Code](https://raw.githubusercontent.com/harveydov/bha/206c21605e8818cc9a7025d73e4139c23f7412fe/qr.png)
 ![QR Code 2](qr.png)
 
 If you need any help with uploading your video, please email [video@ekto.uk](mailto:video@ekto.uk)
