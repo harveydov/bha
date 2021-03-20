@@ -1,5 +1,3 @@
-# Bill and Heathers 60th Anniversary Video
-### 26th April 1961 to 2021
 ## Sssshhhh .... It’s a surprise!
 
 To celebrate Bill and Heather’s 60th Wedding Anniversary, we would very much like to throw the party of all parties to celebrate this wonderful day. 
